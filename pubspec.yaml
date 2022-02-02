@@ -1,7 +1,7 @@
 name: modspace_utils
 description: A new Flutter package project.
 version: 0.0.1
-homepage: dda
+homepage: https://github.com/cesarmod2017/modspace_login
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
